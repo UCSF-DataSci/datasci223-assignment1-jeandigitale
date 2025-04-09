@@ -49,11 +49,11 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Jean is a postdoctoral fellow who recently graduated with her PhD in Epidemiology from UCSF. She is part of the National Clinician Scholars Program, Clinical Research Informatics Fellowship, and Learning Health Systems E-STAR Program. Her research interests lie in improving quality and safety of patient care using EHR data and clinical informatics.
+
+I am hoping to learn the basics of Python. I have no specific topics I would like to see included, just trying to improve my coding skills.
+
+My 2-year old likes Trombone Shorty after reading his [children's book](https://www.tromboneshorty.com/books).
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
